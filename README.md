@@ -12,3 +12,6 @@ A simple Jupyter notebook to visualize the results of RL experiments stored in T
 
 ###Multiple plots
 ![plot](./images/img_2.png)
+
+## Credits
+Tensorboard data extraction by: [supermariopy](https://github.com/theRealSuperMario/supermariopy)
