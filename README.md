@@ -7,10 +7,10 @@ A simple Jupyter notebook to visualize the results of RL experiments stored in T
 - One plot or multiple plots
 
 ## Exemplary visualizations
-###One plot
+### One plot
 ![plot](./images/img_1.png)
 
-###Multiple plots
+### Multiple plots
 ![plot](./images/img_2.png)
 
 ## Credits
